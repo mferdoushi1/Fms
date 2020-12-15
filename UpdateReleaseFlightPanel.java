@@ -9,7 +9,7 @@ import java.awt.Dimension;
 
 /**
  *
- * @author monirozzaman.rony
+ * 
  */
 public class UpdateReleaseFlightPanel extends javax.swing.JPanel {
 
