@@ -10,7 +10,6 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author monirozzaman.rony
  */
 public class ForgetPasswordFrame extends javax.swing.JFrame {
 
