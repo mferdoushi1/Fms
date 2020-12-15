@@ -17,7 +17,6 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author monirozzaman.rony
  */
 public class MyBookingLIstPanel extends javax.swing.JPanel {
 
