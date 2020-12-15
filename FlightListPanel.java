@@ -22,7 +22,6 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author monirozzaman.rony
  */
 public class FlightListPanel extends javax.swing.JPanel {
 
