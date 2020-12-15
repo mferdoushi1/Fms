@@ -19,7 +19,7 @@ import org.jdesktop.swingx.autocomplete.AutoCompleteDecorator;
 
 /**
  *
- * @author monirozzaman.rony
+ * 
  */
 public class SearchFlightInternalPanel extends javax.swing.JPanel {
 
