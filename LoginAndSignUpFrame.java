@@ -16,7 +16,6 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author monirozzaman.rony
  */
 public class LoginAndSignUpFrame extends javax.swing.JFrame {
 
