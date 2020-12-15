@@ -9,7 +9,6 @@ import java.awt.Dimension;
 
 /**
  *
- * @author monirozzaman.rony
  */
 public class MyProfilePanel extends javax.swing.JPanel {
 
