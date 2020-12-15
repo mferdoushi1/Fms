@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author monirozzaman.rony
+ *
  */
 public class ReleaseFlightPanel extends javax.swing.JPanel {
 
