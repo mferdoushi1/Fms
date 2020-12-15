@@ -11,7 +11,6 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author monirozzaman.rony
  */
 public class AdminDashboardFrame extends javax.swing.JFrame {
 
