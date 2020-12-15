@@ -7,7 +7,6 @@ package flight.managment.system;
 
 /**
  *
- * @author monirozzaman.rony
  */
 public class LoggedUserDetails {
     
