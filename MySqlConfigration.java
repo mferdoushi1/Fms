@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author monirozzaman.rony
+ * 
  */
 public class MySqlConfigration {
 
