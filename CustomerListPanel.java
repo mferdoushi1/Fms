@@ -166,7 +166,7 @@ public class CustomerListPanel extends javax.swing.JPanel {
             JOptionPane.showMessageDialog(null, "Successful");
             loadDatafromDatabase();
         } catch (Exception ex) {
-            JOptionPane.showMessageDialog(null, "Somthing is worng");
+            JOptionPane.showMessageDialog(null, "Something is wrong");
             System.err.println(ex);
 
         }
