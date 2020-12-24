@@ -292,6 +292,9 @@ public class LoginAndSignUpFrame extends javax.swing.JFrame {
                             LoggedUserDetails.loggedUserId = resultSet.getString("userId"); 
                             new UserDashboardFrame().setVisible(true);
                         }
+                        else{
+                        }
+                        break;
 
                     }
                 } catch (SQLException ex) {
