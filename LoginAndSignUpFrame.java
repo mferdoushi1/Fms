@@ -291,10 +291,14 @@ public class LoginAndSignUpFrame extends javax.swing.JFrame {
                                 && resultSet.getString("password").equals(password)) {
                             LoggedUserDetails.loggedUserId = resultSet.getString("userId"); 
                             new UserDashboardFrame().setVisible(true);
+                            break;
                         }
                         else{
+                              JOptionPane.showMessageDialog(null, "Invalid User Name or Password");
+                          break;
+                            
                         }
-                        break;
+                        
 
                     }
                 } catch (SQLException ex) {
